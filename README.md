@@ -36,17 +36,17 @@
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/github/stars/marsdevx?color=0D1116&style=for-the-badge&labelColor=0D1116&logo=star" alt="total stars"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/marsdevx?color=0D1116&style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow" alt="total stars"/>
 </div>
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Forks-4-0D1116?style=for-the-badge&logo=repo-forked&logoColor=white&labelColor=0D1116" alt="total forks"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Forks-4-0D1116?style=for-the-badge&logo=repo-forked&logoColor=green&labelColor=0D1116" alt="total forks"/>
 </div>
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Views-106-0D1116?style=for-the-badge&logo=eye&logoColor=white&labelColor=0D1116" alt="total views"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Views-106-0D1116?style=for-the-badge&logo=eye&logoColor=blue&labelColor=0D1116" alt="total views"/>
   <img src="https://komarev.com/ghpvc/?username=marsdevx&style=pixel" />
   <!-- https://komarev.com/ghpvc/?username=marsdevx&abbreviated=true -->
 </div>
@@ -59,7 +59,7 @@
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/marsdevx/submitted">
-    <img src="https://custom-icon-badges.demolab.com/badge/Reddit--0D1116?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0D1116" alt="total forks"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Reddit--0D1116?style=for-the-badge&logo=reddit&logoColor=orange&labelColor=0D1116" alt="total forks"/>
   </a>
 </div>
 
