@@ -27,7 +27,7 @@
 <br>
 
 <!-- Gif -->
-<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0ZjhwODBkZXhtamZhemNsaWd4MWZtanFvNTBvamw0dWl5MnFsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+<img align="right" alt="Coding" height="265" src="https://i.pinimg.com/originals/35/d5/54/35d554f31bd87bf3f5097830af38332b.gif" />
 
 <!-- GitHub Performance -->
 <div>
