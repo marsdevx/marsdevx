@@ -36,7 +36,7 @@
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/github/stars/marsdevx?color=0D1116&style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow" alt="total stars"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/marsdevx?color=0D1116&style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow&random=${Math.random()}" alt="total stars"/>
 </div>
 
 <div>
