@@ -51,6 +51,8 @@
   <!-- https://komarev.com/ghpvc/?username=marsdevx&abbreviated=true -->
 </div>
 
+<!-- https://github-readme-stats.vercel.app/api?username=marsdevx -->
+
 <!-- Find Me Online -->
 <div>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find Me Online</h4>
