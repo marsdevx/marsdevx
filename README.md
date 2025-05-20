@@ -75,7 +75,7 @@
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.printables.com/@marsdevx_2591792">
+  <a href="https://www.printables.com/@marsdevx">
     <img src="https://custom-icon-badges.demolab.com/badge/Printables--0D1116?style=for-the-badge&logo=printables&logoColor=EB6F40&labelColor=0D1116" alt="Printables"/>
   </a>
 </div>
