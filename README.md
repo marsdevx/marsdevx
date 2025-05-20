@@ -62,14 +62,21 @@
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/marsdevx/submitted">
-    <img src="https://custom-icon-badges.demolab.com/badge/Reddit--0D1116?style=for-the-badge&logo=reddit&logoColor=orange&labelColor=0D1116" alt="Reddit"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Reddit--0D1116?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=0D1116" alt="Reddit"/>
   </a>
 </div>
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://monkeytype.com/profile/marsdevx">
-    <img src="https://custom-icon-badges.demolab.com/badge/Monkeytype--0D1116?style=for-the-badge&logo=monkeytype&logoColor=yellow&labelColor=0D1116" alt="Monkeytype"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Monkeytype--0D1116?style=for-the-badge&logo=monkeytype&logoColor=E2B712&labelColor=0D1116" alt="Monkeytype"/>
+  </a>
+</div>
+
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.printables.com/@marsdevx_2591792">
+    <img src="https://custom-icon-badges.demolab.com/badge/Printables--0D1116?style=for-the-badge&logo=printables&logoColor=EB6F40&labelColor=0D1116" alt="Printables"/>
   </a>
 </div>
 
