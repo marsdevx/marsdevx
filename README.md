@@ -36,7 +36,7 @@
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Stars-98-0D1116?style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow" alt="total stars"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Stars-101-0D1116?style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow" alt="total stars"/>
 </div>
 
 <div>
@@ -46,7 +46,7 @@
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Views-2011-0D1116?style=for-the-badge&logo=eye&logoColor=blue&labelColor=0D1116" alt="total views"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Views-2.2K-0D1116?style=for-the-badge&logo=eye&logoColor=blue&labelColor=0D1116" alt="total views"/>
   <img src="https://komarev.com/ghpvc/?username=marsdevx&style=pixel" />
 </div>
 
