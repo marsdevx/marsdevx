@@ -36,7 +36,7 @@
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Stars-101-0D1116?style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow" alt="total stars"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Stars-107-0D1116?style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow" alt="total stars"/>
 </div>
 
 <div>
