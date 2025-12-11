@@ -36,12 +36,12 @@
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Stars-133-0D1116?style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow" alt="total stars"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Stars-136-0D1116?style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow" alt="total stars"/>
 </div>
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Forks-5-0D1116?style=for-the-badge&logo=repo-forked&logoColor=green&labelColor=0D1116" alt="total forks"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Forks-6-0D1116?style=for-the-badge&logo=repo-forked&logoColor=green&labelColor=0D1116" alt="total forks"/>
 </div>
 
 <div>
