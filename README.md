@@ -52,6 +52,7 @@
 <!-- https://custom-icon-badges.demolab.com/github/stars/marsdevx?color=0D1116&style=for-the-badge&labelColor=0D1116&logo=star&logoColor=yellow -->
 <!-- https://komarev.com/ghpvc/?username=marsdevx&abbreviated=true -->
 <!-- https://github-readme-stats.vercel.app/api?username=marsdevx -->
+<!-- https://github-readme-stats-eight-theta.vercel.app/api?username=marsdevx -->
 <!-- https://komarev.com/ghpvc/?username=marsdevx&style=pixel -->
 
 <!-- Find Me Online -->
