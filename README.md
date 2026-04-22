@@ -57,27 +57,20 @@
 
 <!-- Find Me Online -->
 <div>
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find Me Online</h4>
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Me</h4>
 </div>
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/marsdevx/submitted">
-    <img src="https://custom-icon-badges.demolab.com/badge/Reddit--0D1116?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=0D1116" alt="Reddit"/>
+  <a href="https://www.linkedin.com/in/marksylaiev/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Linkedin--0D1116?style=for-the-badge&logo=linkedin&logoColor=196CC4&labelColor=0D1116" alt="Reddit"/>
   </a>
 </div>
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://monkeytype.com/profile/marsdevx">
-    <img src="https://custom-icon-badges.demolab.com/badge/Monkeytype--0D1116?style=for-the-badge&logo=monkeytype&logoColor=E2B712&labelColor=0D1116" alt="Monkeytype"/>
-  </a>
-</div>
-
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.printables.com/@marsdevx">
-    <img src="https://custom-icon-badges.demolab.com/badge/Printables--0D1116?style=for-the-badge&logo=printables&logoColor=EB6F40&labelColor=0D1116" alt="Printables"/>
+  <a href="files/cv.pdf">
+    <img src="https://custom-icon-badges.demolab.com/badge/CV--0D1116?style=for-the-badge&logo=file&logoColor=49FBB9&labelColor=0D1116" alt="Monkeytype"/>
   </a>
 </div>
 
